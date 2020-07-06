@@ -9,6 +9,6 @@ int main(void){
     printf("体重~%f\n",taijyu);
 
 	nenrei=taijyu;
-    printf("EMI=%d\n",nenrei);
+    printf("ZZZ=%d\n",nenrei);
 
 }
